@@ -1,0 +1,16 @@
+[
+{
+  "modid": "futuristicmaterials",
+  "name": "Futuristic Materials",
+  "description": "A mod that adds futuristic building materials.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TheNumenorean"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

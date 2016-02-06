@@ -1,0 +1,13 @@
+/*
+
+
+!.travis.yml
+!build.gradle
+!gradlew
+!gradlew.bat
+!README.txt
+!.gitignore
+
+!gradle/
+!src/
+!models/
